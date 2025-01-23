@@ -1,4 +1,4 @@
-#EdTech startup 
+
 
 You are a data analyst working with an EdTech startup that wants to grow its offerings in
 recorded lectures. The company has collected data from various EdTech websites but needs
